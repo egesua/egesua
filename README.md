@@ -3,10 +3,10 @@
 I'm a mathematics enthusiast with a passion for coding and a penchant for problem-solving. Armed with a degree in mathematics, I bring a unique blend of analytical thinking and creative problem-solving to the world of web development.
 
 ### 🌐 Web Development Skills
-- **Languages**: JavaScript, HTML, CSS, SQL
+- **Languages**: JavaScript, Java, TypeScript, HTML, CSS, SQL
 - **Frameworks/Library**: React.js, SpringBoot
 - **Version Control**: Git
-- **Frontend Tools**: Redux, Styled Components, Bootstrap, Reactstrap
+- **Frontend Tools**: Redux, Styled Components, Bootstrap, Reactstrap, SASS, MaterialUI
 - **Build Tools**: Webpack, Babel
 
 ### 📚 Mathematics Background
