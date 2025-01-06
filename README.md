@@ -1,7 +1,5 @@
 ## Hello, I'm Ege 👋
 
-I'm a mathematics enthusiast with a passion for coding and a penchant for problem-solving. Armed with a degree in mathematics, I bring a unique blend of analytical thinking and creative problem-solving to the world of web development.
-
 ### 🌐 Web Development Skills
 - **Languages**: JavaScript, Java, TypeScript, HTML, CSS, SQL
 - **Frameworks/Library**: React.js, SpringBoot
